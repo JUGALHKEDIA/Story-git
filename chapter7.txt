@@ -1,0 +1,3 @@
+Git and github are getting complex, haha but I'm loving it
+I got to know about git push -u origin master command which pushes local git repo to github.
+I not to know about git clone "link to repo" command for cloning a repo over github.

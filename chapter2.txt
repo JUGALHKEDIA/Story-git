@@ -2,5 +2,8 @@ now I'm on chapter 2 of my story, I have started playing with Git add here are f
 git init  -initializes the Local git repo
 git add .  - add current files to staging area, start tracking files
 git commit -m "" - commits files in staging area to local git repo, basically Version-1 is created -m flag is for message
-git log - lists all the previous commit 
-git status -shows status of untracked, tracked files 
+git log - lists all the previous commit
+git status -shows status of untracked, tracked files
+Git and github are getting complex, haha but I'm loving it
+I got to know about git push -u origin master command which pushes local git repo to github.
+I not to know about git clone "link to repo" command for cloning a repo over github.
