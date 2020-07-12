@@ -1,0 +1,14 @@
+chapter 5;
+so here is what I learned how to create a github repo.
+sign-in to github.com account,
+on to top right corner click "+" icon,
+Name you github repo,
+add an optional message,
+no need to create read.me file in advance(you can add it later),
+check private/public accordingly.
+hit create.
+once done you are provided with a link to his repo.
+now you can push your local git repo to this newly create github repo
+use this following command;
+git remote add origin https://github.com/username/new_repo
+git push origin master

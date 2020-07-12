@@ -1,0 +1,4 @@
+# Following file will not be staged and
+# committed to my repository
+secret.txt
+#.gitignore
