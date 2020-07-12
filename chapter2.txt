@@ -1,0 +1,6 @@
+now I'm on chapter 2 of my story, I have started playing with Git add here are few git commands;
+git init  -initializes the Local git repo
+git add .  - add current files to staging area, start tracking files
+git commit -m "" - commits files in staging area to local git repo, basically Version-1 is created -m flag is for message
+git log - lists all the previous commit 
+git status -shows status of untracked, tracked files 
